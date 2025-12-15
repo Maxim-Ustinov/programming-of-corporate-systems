@@ -1,0 +1,13 @@
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/simple_notes
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json

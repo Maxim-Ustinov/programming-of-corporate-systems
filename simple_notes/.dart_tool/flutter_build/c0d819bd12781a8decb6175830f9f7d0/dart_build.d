@@ -1,0 +1,1 @@
+ /home/Maxim_Ustinov/programming-of-corporate-systems/simple_notes/.dart_tool/flutter_build/c0d819bd12781a8decb6175830f9f7d0/dart_build_result.json: 
